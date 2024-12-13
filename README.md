@@ -4,7 +4,7 @@
 
 ## Initialize a node js project
 
-2. npm init
+2. npm init npm init for manual for defult use npm init -y
 
 ## Setup Typescript
 
