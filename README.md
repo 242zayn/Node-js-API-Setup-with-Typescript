@@ -1,6 +1,7 @@
-## Create project
+## Create project:
+ ```base
+   git clone mkdir [Project name]
 
-1. mkdir [Project name]
 
 ## Initialize a node js project
 
