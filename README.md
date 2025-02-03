@@ -12,7 +12,7 @@
 
 ## After Initizaling intilize a tsconfig file
 
-4. npx tss --init
+4. npx tsc --init
 
 ## Setup eslint packgae
 
