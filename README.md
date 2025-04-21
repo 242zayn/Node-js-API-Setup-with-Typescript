@@ -23,6 +23,10 @@
 npm i express [Package name]
 npm i -D @types/express [Package name]
 
+## download wetsite with this url 
+wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://demo2.techsseract.com/snakebite/
+
+
 Clone the repository:
    ```bash
    git clone https://github.com/username/repository-name.git
